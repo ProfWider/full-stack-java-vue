@@ -1,4 +1,4 @@
-# Spring Boot + VueJS Template
+# My forked Spring Boot + VueJS Template
 
 This is a template for anyone looking to use Spring Boot + Vue.JS in the same project. 
 
